@@ -106,3 +106,71 @@ Linux Log Analizi — ModSecurity Kurulumu - https://kaleileriteknoloji.medium.c
 Linux Log Analizi — dumpio - https://kaleileriteknoloji.medium.com/linux-log-analizi-dumpio-e8e2bb55e6e1?source=friends_link&sk=e535bc60ec54933eab190172a836728c
 
 Linux Log Analizi — Auditd Kurulumu - https://kaleileriteknoloji.medium.com/linux-log-analizi-auditd-kurulumu-d3d659172b7e?source=friends_link&sk=18625d2dd0ac81ed9e4fde3f32f8b8fb
+
+Windows Log Analizi — Windows Loglar - https://kaleileriteknoloji.medium.com/windows-log-analizi-windows-loglar-103cdbf1e4c1?source=friends_link&sk=e56f175a6843d837f15f4b8566fd6fb8
+
+Windows Log Analizi — Powershell İle Log Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-powershell-i%CC%87le-log-analizi-79744ee047e4?source=friends_link&sk=7b8e3dcd70d79544ce5fd6fdc75be9a1
+
+Windows Log Analizi — Powershell ile En Önemli Logların Uzaktan Toplanması - https://kaleileriteknoloji.medium.com/windows-log-analizi-powershell-ile-en-%C3%B6nemli-loglar%C4%B1n-uzaktan-toplanmas%C4%B1-e2a8eda5f6cd?source=friends_link&sk=5a798bf35056b90c3e88f0e28f9f0eff
+
+Windows Log Analizi — DeepBlue - https://kaleileriteknoloji.medium.com/windows-log-analizi-deepblue-2d3227e199b7?source=friends_link&sk=b1af796a373a2a94b4fa67b61b4577e0
+
+Windows Log Analizi — Log Parser - https://kaleileriteknoloji.medium.com/windows-log-analizi-log-parser-b93cc0b0ad57?source=friends_link&sk=c9d53f76d380e903eec0136d67a70a8e
+
+Windows Log Analizi — Port Tarama Tespiti - https://kaleileriteknoloji.medium.com/windows-log-analizi-port-tarama-tespiti-97bc45a15357?source=friends_link&sk=1b618929de2b39a3c8bd8f320ad807fe
+
+Windows Log Analizi — Logon/Logoff Olayları Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-logon-logoff-olaylar%C4%B1-analizi-632b33016b27?source=friends_link&sk=21821c9d85d7f6625fd4346d9dcc2e9a
+
+Windows Log Analizi — Reverse Shell Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-reverse-shell-analizi-22bd65a2c534?source=friends_link&sk=b860b4d614e81c084bab7813a184def1
+
+Windows Log Analizi — MS17–010 Exploit Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-ms17-010-exploit-analizi-673d4606712e?source=friends_link&sk=a0c25143af8ab4a709d58542bddbb711
+
+Windows Log Analizi — Kullanıcı İşlemleri Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-kullan%C4%B1c%C4%B1-i%CC%87%C5%9Flemleri-analizi-3cecd0e17d77?source=friends_link&sk=8da10841e4ac896c4c6ba7966fb03162
+
+Windows Log Analizi — Exploit Edilmiş Bir Sistemde Servis ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-exploit-edilmi%C5%9F-bir-sistemde-servis-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-c062ff52e862?source=friends_link&sk=82d91629f50b1f0c6209bcb1d3992bd5
+
+Windows Log Analizi — Exploit Edilmiş Bir Sistemde Registry ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-exploit-edilmi%C5%9F-bir-sistemde-registry-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-f2ff4ea4022?source=friends_link&sk=905be380e1680fbd37a11babeb5ed99a
+
+Windows Log Analizi — Exploit Edilmiş Bir Sistemde Task Scheduler ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-exploit-edilmi%C5%9F-bir-sistemde-task-scheduler-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-206597c1b42?source=friends_link&sk=9ac191b51d8506300c383f21350e84c2
+
+Windows Log Analizi — Exploit Edilmiş Bir Sistemde Volume Shadow Copy Aracılığıyla Kalıcılık ve Log Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-exploit-edilmi%C5%9F-bir-sistemde-volume-shadow-copy-arac%C4%B1l%C4%B1%C4%9F%C4%B1yla-kal%C4%B1c%C4%B1l%C4%B1k-ve-log-76eee136a007?source=friends_link&sk=f0cb1c6128a3ec259ce1892a183bdd42
+
+Windows Log Analizi — Exploit Edilmiş Bir Sistemde Startup File ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-exploit-edilmi%C5%9F-bir-sistemde-startup-file-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-e1f4afdcf137?source=friends_link&sk=a31c9d0e035d72a8aadcf723fa7b7c48
+
+Windows Log Analizi —Detaylı Komut Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-detayl%C4%B1-komut-analizi-c995cfa838a2?source=friends_link&sk=6bce3fe9c3045d45d4c2b5d639384cfa
+
+Windows Log Analizi —APT-Hunter - https://kaleileriteknoloji.medium.com/windows-log-analizi-apt-hunter-f9a71a6ba478?source=friends_link&sk=6589b8a3babfd1685160eea18e75948d
+
+Windows Log Analizi — Audit Policy Değişikliği Tespiti - https://kaleileriteknoloji.medium.com/windows-log-analizi-audit-policy-de%C4%9Fi%C5%9Fikli%C4%9Fi-tespiti-6fcd4b14f6e5?source=friends_link&sk=889857328af9c5390e4d02b433fcc783
+
+Windows Log Analizi — RID Hijacking İşlemi ve Analizi - https://kaleileriteknoloji.medium.com/windows-log-analizi-rid-hijacking-i%CC%87%C5%9Flemi-ve-analizi-ed90d563ba8c?source=friends_link&sk=27d3a307d1040cf684190ccd123221f3
+
+Sysmon — Sysmon Kurulumu - https://kaleileriteknoloji.medium.com/sysmon-sysmon-kurulumu-d829e25b2689?source=friends_link&sk=48e71d2704f19bceff4b639042ed7354
+
+Sysmon — Sysmon Events - https://kaleileriteknoloji.medium.com/sysmon-sysmon-events-31bb0165687f?source=friends_link&sk=5b3ae752a4d95864230352980d6d5b11
+
+Sysmon — Reverse Shell Analizi - https://kaleileriteknoloji.medium.com/sysmon-reverse-shell-analizi-c2ac67613a3e?source=friends_link&sk=7e3797c30d1e84d285d9972951d17a17
+
+Sysmon — MS17–010 Exploit Analizi - https://kaleileriteknoloji.medium.com/sysmon-ms17-010-exploit-analizi-83b44c8a5803?source=friends_link&sk=411023f8f8641afe323fe89e9271c119
+
+Sysmon — Kullanıcı İşlemleri Analizi - https://kaleileriteknoloji.medium.com/sysmon-kullan%C4%B1c%C4%B1-i%CC%87%C5%9Flemleri-analizi-ac7c56d0a267?source=friends_link&sk=3da133728adf7ce924ade3b29f5e31e7
+
+Sysmon — Detaylı Komut Analizi - https://kaleileriteknoloji.medium.com/sysmon-detayl%C4%B1-komut-analizi-662588bf5daf?source=friends_link&sk=b872fe87dc2093c06d3351c016ea51b1
+
+Sysmon — Exploit Edilmiş Bir Sistemde Servis ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/sysmon-exploit-edilmi%C5%9F-bir-sistemde-servis-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-f0d580a64e67?source=friends_link&sk=a2686396c20618b5a8ec2fd8c5936594
+
+Sysmon — Exploit Edilmiş Bir Sistemde Registry ile Kalıcılık ve Analizi - https://kaleileriteknoloji.medium.com/sysmon-exploit-edilmi%C5%9F-bir-sistemde-registry-ile-kal%C4%B1c%C4%B1l%C4%B1k-ve-analizi-6ccaa26b8ecb?source=friends_link&sk=1d792dd6292a92ba3b893623808d10a4
+
+Sysmon — Exploit Edilmiş Bir Sistemde Volume Shadow Copy Aracılığıyla Kalıcılık ve Log Analizi - https://kaleileriteknoloji.medium.com/sysmon-exploit-edilmi%C5%9F-bir-sistemde-volume-shadow-copy-arac%C4%B1l%C4%B1%C4%9F%C4%B1yla-kal%C4%B1c%C4%B1l%C4%B1k-ve-log-analizi-5bad6387c788?source=friends_link&sk=6052c31bf5b0fc8d4b82f8c14db1caef
+
+Sysmon — RID Hijacking İşlemi ve Analizi - https://kaleileriteknoloji.medium.com/sysmon-rid-hijacking-i%CC%87%C5%9Flemi-ve-analizi-d3354f603501?source=friends_link&sk=0dffa81645c9b48cb3c4984203308471
+
+Sysmon — Sysmon Tools - https://kaleileriteknoloji.medium.com/sysmon-sysmon-tools-5a6acd820779?source=friends_link&sk=e26fbf34ea694f0ed0d39419f8557e64
+
+Neden Log Yönetimi ve Analizi? - https://kaleileriteknoloji.medium.com/neden-log-y%C3%B6netimi-ve-analizi-15c12ecc0d5?source=friends_link&sk=9fe6f50640a31432446a653e8c29bbdf
+
+Splunk — Splunk Nedir? - https://kaleileriteknoloji.medium.com/splunk-splunk-nedir-8161fa2f7a14?source=friends_link&sk=a9b2f9a928ee717c3de49c3bf48576e2
+
+Splunk — SPL - https://kaleileriteknoloji.medium.com/splunk-spl-d6b1b449fbb1?source=friends_link&sk=2a62315a70eb92237cd6623dbbf10305
+
+Splunk — Linux Splunk Forwarder Yapılandırması - https://kaleileriteknoloji.medium.com/splunk-linux-splunk-forwarder-yap%C4%B1land%C4%B1rmas%C4%B1-e37ddb62afd?source=friends_link&sk=53dc1f31a06e7a827fcfe96c9bbae81e
